@@ -6,10 +6,9 @@ Hey, Connectors ! I've Made a Library Management System With JDBC Hope You Like 
 # REQUIREMENTS: 
 MYSQL - CONNECTOR.
 
-                        # IMAGES
-![image](https://github.com/user-attachments/assets/c605c4cd-1a12-426a-b4c2-02528a40bc84)
+![image](https://github.com/user-attachments/assets/c605c4cd-1a12-426a-b4c2-02528a40bc84) ![image](https://github.com/user-attachments/assets/6538f9a3-8f34-4e93-b146-4a51b671e010)
 
-![image](https://github.com/user-attachments/assets/6538f9a3-8f34-4e93-b146-4a51b671e010)
+
 
 ![image](https://github.com/user-attachments/assets/2c6da501-2597-4379-9f4c-48a2b2182a62)
 
